@@ -10,7 +10,7 @@ DEBUG = True
 ALLOWED_HOSTS = ['localhost',
                  '127.0.0.1',
                  '84.201.160.51',
-                 'https://practicumhost.hopto.org']
+                 'practicumhost.hopto.org']
 
 # Application definition
 
